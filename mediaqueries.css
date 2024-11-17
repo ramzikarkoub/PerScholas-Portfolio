@@ -25,9 +25,6 @@
     gap: 20px;
   }
 
-  footer {
-    /* height: 40vh; */
-  }
   #contact {
     height: 40vh;
   }
@@ -35,9 +32,7 @@
     height: 83vh;
     margin-bottom: 0;
   }
-  /* #about {
-    padding: 0 10px;
-  } */
+
   #about h1 {
     margin-bottom: 50px;
   }
@@ -80,11 +75,7 @@
   .logo {
     font-size: 1.5rem;
   }
-  /* .nav-links {
-    flex-direction: column;
-    gap: 0.5rem;
-    text-align: center;
-  } */
+
   .section__pic-container {
     width: auto;
     height: 46vw;
